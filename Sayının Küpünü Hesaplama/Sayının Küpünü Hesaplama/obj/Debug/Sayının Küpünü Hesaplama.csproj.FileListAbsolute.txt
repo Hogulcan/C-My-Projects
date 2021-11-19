@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\bin\Debug\Sayının Küpünü Hesaplama.exe.config
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\bin\Debug\Sayının Küpünü Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\bin\Debug\Sayının Küpünü Hesaplama.pdb
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının Küpünü Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının_Küpünü_Hesaplama.Form1.resources
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının_Küpünü_Hesaplama.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının Küpünü Hesaplama.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının Küpünü Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının Küpünü Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Küpünü Hesaplama\Sayının Küpünü Hesaplama\obj\Debug\Sayının Küpünü Hesaplama.pdb
