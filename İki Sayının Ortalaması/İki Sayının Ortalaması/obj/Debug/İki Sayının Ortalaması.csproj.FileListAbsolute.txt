@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\bin\Debug\İki Sayının Ortalaması.exe.config
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\bin\Debug\İki Sayının Ortalaması.exe
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\bin\Debug\İki Sayının Ortalaması.pdb
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki Sayının Ortalaması.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki_Sayının_Ortalaması.Form1.resources
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki_Sayının_Ortalaması.Properties.Resources.resources
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki Sayının Ortalaması.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki Sayının Ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki Sayının Ortalaması.exe
+C:\Users\ogulc\source\repos\İki Sayının Ortalaması\İki Sayının Ortalaması\obj\Debug\İki Sayının Ortalaması.pdb
