@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\bin\Debug\Giriş Paneli.exe.config
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\bin\Debug\Giriş Paneli.exe
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\bin\Debug\Giriş Paneli.pdb
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş Paneli.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş_Paneli.Form1.resources
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş_Paneli.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş Paneli.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş Paneli.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş Paneli.exe
+C:\Users\ogulc\source\repos\Giriş Paneli\Giriş Paneli\obj\Debug\Giriş Paneli.pdb
