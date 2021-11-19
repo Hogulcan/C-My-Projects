@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\bin\Debug\Sayının Yüzdesini Hesaplama.exe.config
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\bin\Debug\Sayının Yüzdesini Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\bin\Debug\Sayının Yüzdesini Hesaplama.pdb
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının Yüzdesini Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının_Yüzdesini_Hesaplama.Form1.resources
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının_Yüzdesini_Hesaplama.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının Yüzdesini Hesaplama.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının Yüzdesini Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının Yüzdesini Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Yüzdesini Hesaplama\Sayının Yüzdesini Hesaplama\obj\Debug\Sayının Yüzdesini Hesaplama.pdb
