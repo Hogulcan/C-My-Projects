@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\bin\Debug\Sayının Karesini Hesaplama.exe.config
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\bin\Debug\Sayının Karesini Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\bin\Debug\Sayının Karesini Hesaplama.pdb
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının Karesini Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının_Karesini_Hesaplama.Form1.resources
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının_Karesini_Hesaplama.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının Karesini Hesaplama.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının Karesini Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının Karesini Hesaplama.exe
+C:\Users\ogulc\source\repos\Sayının Karesini Hesaplama\Sayının Karesini Hesaplama\obj\Debug\Sayının Karesini Hesaplama.pdb
