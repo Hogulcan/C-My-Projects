@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\bin\Debug\Yönlendirme.exe.config
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\bin\Debug\Yönlendirme.exe
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\bin\Debug\Yönlendirme.pdb
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.Form1.resources
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.exe
+C:\Users\ogulc\source\repos\Yönlendirme\Yönlendirme\obj\Debug\Yönlendirme.pdb
