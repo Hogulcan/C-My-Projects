@@ -1,0 +1,13 @@
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\bin\Debug\Cille Bilgi Oyunu.exe.config
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\bin\Debug\Cille Bilgi Oyunu.exe
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\bin\Debug\Cille Bilgi Oyunu.pdb
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille Bilgi Oyunu.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille_Bilgi_Oyunu.Form1.resources
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille_Bilgi_Oyunu.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille Bilgi Oyunu.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille Bilgi Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille Bilgi Oyunu.exe
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille Bilgi Oyunu.pdb
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille_Bilgi_Oyunu.Form2.resources
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille_Bilgi_Oyunu.Form3.resources
+C:\Users\ogulc\source\repos\Cille Bilgi Oyunu\Cille Bilgi Oyunu\obj\Debug\Cille_Bilgi_Oyunu.Form4.resources
