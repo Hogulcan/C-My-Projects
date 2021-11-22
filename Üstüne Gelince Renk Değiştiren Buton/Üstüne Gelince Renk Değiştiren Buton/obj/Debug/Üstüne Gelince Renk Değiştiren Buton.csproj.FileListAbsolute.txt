@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\bin\Debug\Üstüne Gelince Renk Değiştiren Buton.exe.config
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\bin\Debug\Üstüne Gelince Renk Değiştiren Buton.exe
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\bin\Debug\Üstüne Gelince Renk Değiştiren Buton.pdb
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne Gelince Renk Değiştiren Buton.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne_Gelince_Renk_Değiştiren_Buton.Form1.resources
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne_Gelince_Renk_Değiştiren_Buton.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne Gelince Renk Değiştiren Buton.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne Gelince Renk Değiştiren Buton.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne Gelince Renk Değiştiren Buton.exe
+C:\Users\ogulc\source\repos\Üstüne Gelince Renk Değiştiren Buton\Üstüne Gelince Renk Değiştiren Buton\obj\Debug\Üstüne Gelince Renk Değiştiren Buton.pdb
