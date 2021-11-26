@@ -1,0 +1,13 @@
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\bin\Debug\Fizik Formülleri Hesaplama.exe.config
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\bin\Debug\Fizik Formülleri Hesaplama.exe
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\bin\Debug\Fizik Formülleri Hesaplama.pdb
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik Formülleri Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik_Formülleri_Hesaplama.Form1.resources
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik_Formülleri_Hesaplama.Form2.resources
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik_Formülleri_Hesaplama.Form3.resources
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik_Formülleri_Hesaplama.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik Formülleri Hesaplama.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik Formülleri Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik Formülleri Hesaplama.exe
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik Formülleri Hesaplama.pdb
+C:\Users\ogulc\source\repos\Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama\obj\Debug\Fizik_Formülleri_Hesaplama.Form4.resources

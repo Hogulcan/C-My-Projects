@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizik Formülleri Hesaplama", "Fizik Formülleri Hesaplama\Fizik Formülleri Hesaplama.csproj", "{DC888FF5-81FF-48A3-96D6-32BD1A18EE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC888FF5-81FF-48A3-96D6-32BD1A18EE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC888FF5-81FF-48A3-96D6-32BD1A18EE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC888FF5-81FF-48A3-96D6-32BD1A18EE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC888FF5-81FF-48A3-96D6-32BD1A18EE06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA97DD3-6289-4D30-B407-C9586EC1A4BC}
+	EndGlobalSection
+EndGlobal
