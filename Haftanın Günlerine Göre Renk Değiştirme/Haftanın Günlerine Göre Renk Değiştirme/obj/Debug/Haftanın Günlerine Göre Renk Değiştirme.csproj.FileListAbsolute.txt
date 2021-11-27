@@ -1,0 +1,10 @@
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\bin\Debug\Haftanın Günlerine Göre Renk Değiştirme.exe.config
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\bin\Debug\Haftanın Günlerine Göre Renk Değiştirme.exe
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\bin\Debug\Haftanın Günlerine Göre Renk Değiştirme.pdb
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın Günlerine Göre Renk Değiştirme.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın_Günlerine_Göre_Renk_Değiştirme.Form1.resources
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın_Günlerine_Göre_Renk_Değiştirme.Properties.Resources.resources
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın Günlerine Göre Renk Değiştirme.csproj.GenerateResource.cache
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın Günlerine Göre Renk Değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın Günlerine Göre Renk Değiştirme.exe
+C:\Users\ogulc\source\repos\Haftanın Günlerine Göre Renk Değiştirme\Haftanın Günlerine Göre Renk Değiştirme\obj\Debug\Haftanın Günlerine Göre Renk Değiştirme.pdb
