@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_Point_of_University_Exam", "Calculate_Point_of_University_Exam\Calculate_Point_of_University_Exam.csproj", "{75B0416A-C04C-4827-B4E4-FD6E3A3ABB2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B0416A-C04C-4827-B4E4-FD6E3A3ABB2B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{75B0416A-C04C-4827-B4E4-FD6E3A3ABB2B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{75B0416A-C04C-4827-B4E4-FD6E3A3ABB2B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{75B0416A-C04C-4827-B4E4-FD6E3A3ABB2B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB1116C-7774-4DC6-ACAB-32AF1AA98162}
+	EndGlobalSection
+EndGlobal
